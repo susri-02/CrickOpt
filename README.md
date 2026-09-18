@@ -132,3 +132,16 @@ CrickOpt/
 │
 ├── .gitignore
 └── README.md
+## 📸 Application Screenshots
+
+### 🏏 CrickOpt Analysis Dashboard
+![CrickOpt Analysis](screenshots/app_overview.png)
+
+### 🎯 Bowler Comparison
+![Bowler Comparison](screenshots/bowler_comparison.png)
+
+### 📊 Tactical Score Comparison
+![Tactical Score Comparison](screenshots/tactical_score.png)
+
+### 💡 Decision Explanation
+![Decision Explanation](screenshots/decision_explanation.png)
