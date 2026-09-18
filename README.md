@@ -9,7 +9,7 @@ The system estimates next-ball scoring and wicket probability and combines these
 ---
 ## 🚀 Live Demo
 
-👉 [Launch CrickOpt](https://crickopt-afnyezpfwenqupwkd58vf.streamlit.app/)
+👉 [Launch CrickOpt]([https://crickopt-afnyezpfwenqupwkd58vf.streamlit.app/](https://crickopt-afnyezpfwenquwpkwd58vf.streamlit.app/))
 ## 🎯 Problem Statement
 
 Cricket tactical decisions depend on several factors such as:
