@@ -7,7 +7,9 @@ CrickOpt is a machine learning-based cricket analytics and tactical decision-sup
 The system estimates next-ball scoring and wicket probability and combines these predictions into a tactical score to compare bowling options.
 
 ---
+## 🚀 Live Demo
 
+👉 [Launch CrickOpt](https://crickopt-afnyezpfwenqupwkd58vf.streamlit.app/)
 ## 🎯 Problem Statement
 
 Cricket tactical decisions depend on several factors such as:
